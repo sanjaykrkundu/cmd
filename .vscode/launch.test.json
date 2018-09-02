@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "cms",
+                "projectName": "cms",
+                "workingDirectory": "/home/sanjay/Desktop/git/CMS",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "cms",
+                "projectName": "cms",
+                "workingDirectory": "/home/sanjay/Desktop/git/CMS",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
