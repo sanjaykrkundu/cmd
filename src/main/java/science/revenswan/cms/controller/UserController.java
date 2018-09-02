@@ -11,10 +11,10 @@ public class UserController{
 
     @RequestMapping("/")
     @ResponseBody
-    public User test(){
+    public String test(){
         User user = new User("sanjaykr.kundu@gmail.com","pass");
  
-        return user;
+        return user.getEmail();
     }
 
 
